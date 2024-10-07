@@ -1,5 +1,5 @@
 <h1 align="center">Social (Preview)</h1>
-YouTube: [@AdmUIPersonalMinhDuy][https://www.youtube.com/@AdmUIPersonalMinhDuy]
+YouTube: [![@AdmUIPersonalMinhDuy][https://www.youtube.com/@AdmUIPersonalMinhDuy]
 
 Facebook: (Account Disabled)
 
