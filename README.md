@@ -1,5 +1,4 @@
 <h1 align="center">Minh Duy</h1>
-<h1 align="center" size="8">Minh Duy</h1>
 
 YouTube: [@AdmUIPersonalMinhDuy](https://www.youtube.com/@AdmUIPersonalMinhDuy)
 
