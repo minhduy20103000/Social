@@ -1,4 +1,5 @@
-<h1 align="center">Social (Preview)</h1>
+<h1 align="center">Minh Duy</h1>
+<h1 align="center">## Minh Duy</h1>
 
 YouTube: [@AdmUIPersonalMinhDuy](https://www.youtube.com/@AdmUIPersonalMinhDuy)
 
