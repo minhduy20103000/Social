@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://github.com/user-attachments/assets/38e9bdad-8bb6-42ad-bc40-abb02f241503" width="100" height="100" /></h1>
 <h1 align="center">Minh Duy</h1>
 
-<a align="center" href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a>
+<hl align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></hl>
 
 YouTube: [@AdmUIPersonalMinhDuy](https://www.youtube.com/@AdmUIPersonalMinhDuy)
 
