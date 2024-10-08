@@ -1,7 +1,7 @@
 ![](https://github.com/user-attachments/assets/eedcc2ba-6231-43ce-be9c-6e60e18b2ef9)
 <h1 align="center"><picture><img src="https://github.com/user-attachments/assets/de77149b-d27f-466b-a03d-d3ccc3eca82e" width="100" height="100"/></picture></h1>
 <h1 align="center">Minh Duy</h1>
-<h5 align="center">Email: minhduy20103000@gmail.com</h5>
+<h4 align="center">Email: minhduy20103000@gmail.com</h4>
 
 <h1 align="center">
   <picture><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/></a></picture>
