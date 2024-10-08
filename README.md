@@ -21,3 +21,5 @@ X: [minhduy2010_](https://x.com/minhduy2010_)
 Pinterest: [minhduy20103000](https://www.pinterest.com/minhduy20103000/)
 
 Reddit: [u/minhduy20103000](https://www.reddit.com/user/minhduy20103000/)
+
+<a href="https://ko-fi.com/N4N0K08AC"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
