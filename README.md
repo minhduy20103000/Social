@@ -2,8 +2,6 @@
 
 <h1 align="center">Minh Duy</h1>
 
-## Minh Duy
-
 YouTube: [@AdmUIPersonalMinhDuy](https://www.youtube.com/@AdmUIPersonalMinhDuy)
 
 Facebook: (Account Disabled)
