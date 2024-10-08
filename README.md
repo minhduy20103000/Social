@@ -1,7 +1,9 @@
 ![](https://github.com/user-attachments/assets/eedcc2ba-6231-43ce-be9c-6e60e18b2ef9)
-<picture><img src="https://github.com/user-attachments/assets/de77149b-d27f-466b-a03d-d3ccc3eca82e" width="100" height="100"/></picture><h1>Minh Duy</h1><h3>Email: minhduy20103000@gmail.com</h3>
+<picture><img src="https://github.com/user-attachments/assets/de77149b-d27f-466b-a03d-d3ccc3eca82e" width="100" height="100"/></picture>
+<h1 align="center">Minh Duy</h1>
+<h3>Email: minhduy20103000@gmail.com</h3>
 
-<h1 align="center">
+<h0 align="center">
   <picture><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/13db7d5a-7b94-48d5-9d5d-9de990ceffa2" width="200" height="50"/></picture>
   <picture><a href="https://www.instagram.com/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/3a4379af-bc76-40c6-8e52-2b247c393fea" width="200" height="50"/></a></picture>
@@ -14,35 +16,4 @@
   <picture><a href="https://www.pinterest.com/minhduy20103000/"><img src="https://github.com/user-attachments/assets/a7f75335-888a-4776-9f4b-12ce27b324d5" width="200" height="50"/></a></picture>
   <picture><a href="https://www.reddit.com/user/minhduy20103000/"><img src="https://github.com/user-attachments/assets/eb3595fd-e7ea-4295-b8c8-ab8c37eb6615" width="200" height="50"/></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/339f0bc7-054d-4f4c-b4c9-86fa2dc49070" width="200" height="50"/></picture>
-</h1>
-
-/**
- * Button's center align (absolute positioning)
- */
- body {
-	height: 100%;
-	width: 100%;
-}
- 
-.content {
-	width: 100%;
-	height: 100%;
-	/*width: 400px;*/
-	/*height: 400px;*/
-	background-color: red;
-    display: table;
-    position: absolute;
-}
-.button-wrapper {
-	background-color: navy;
-    display: table-cell;
-    vertical-align: middle;
-}
-
-.button {
-	display: block;
-	vertical-align: middle;
-	margin: auto;
-	width: 30px;
-	height: 100px;
-}
+</01>
