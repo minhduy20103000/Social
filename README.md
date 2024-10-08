@@ -2,6 +2,8 @@
 <h1 align="center"><img src="https://github.com/user-attachments/assets/38e9bdad-8bb6-42ad-bc40-abb02f241503" width="100" height="100" /></h1>
 <h1 align="center">Minh Duy</h1>
 
+<a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a"/></a>
+
 YouTube: [@AdmUIPersonalMinhDuy](https://www.youtube.com/@AdmUIPersonalMinhDuy)
 
 Facebook: (Account Disabled)
@@ -21,5 +23,3 @@ X: [minhduy2010_](https://x.com/minhduy2010_)
 Pinterest: [minhduy20103000](https://www.pinterest.com/minhduy20103000/)
 
 Reddit: [u/minhduy20103000](https://www.reddit.com/user/minhduy20103000/)
-
-<a href="https://ko-fi.com/N4N0K08AC"><img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
