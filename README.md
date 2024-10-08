@@ -1,9 +1,11 @@
-![](https://github.com/user-attachments/assets/b4138c38-d806-4024-9b48-235e9e3e58d9)
-<h1 align="center"><img src="https://github.com/user-attachments/assets/38e9bdad-8bb6-42ad-bc40-abb02f241503" width="100" height="100" /></h1>
+<h1 align="center">![]()
+  <picture><img src="https://github.com/user-attachments/assets/b4138c38-d806-4024-9b48-235e9e3e58d9/></h1><picture>
+  <picture><img src="https://github.com/user-attachments/assets/38e9bdad-8bb6-42ad-bc40-abb02f241503" width="100" height="100" /></h1></picture>
+</h1>
 <h1 align="center">Minh Duy</h1>
 
 <h1 align="center">
-  <picture><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/></a></picture>
+  <picture><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/13db7d5a-7b94-48d5-9d5d-9de990ceffa2" width="200" height="50"/></picture>
   <picture><a href="https://www.instagram.com/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/3a4379af-bc76-40c6-8e52-2b247c393fea" width="200" height="50"/></a></picture>
   <picture><a href="https://www.threads.net/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/bbfbfb12-a628-4029-8d1b-c94e5152829a" width="200" height="50"/></a></picture>
