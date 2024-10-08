@@ -2,7 +2,31 @@
 <h1 align="center"><img src="https://github.com/user-attachments/assets/38e9bdad-8bb6-42ad-bc40-abb02f241503" width="100" height="100" /></h1>
 <h1 align="center">Minh Duy</h1>
 
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="[https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a](https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41)" width="200" height="50"/></a></h1>
 <h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+<h1 align="center"><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/4e6f7505-84bd-4132-9bbb-38c336c40a0a" width="200" height="50"/></a></h1>
+
+![YouTube]()
+![Discord](https://github.com/user-attachments/assets/339f0bc7-054d-4f4c-b4c9-86fa2dc49070)
+![Reddit](https://github.com/user-attachments/assets/eb3595fd-e7ea-4295-b8c8-ab8c37eb6615)
+![Pinterest](https://github.com/user-attachments/assets/a7f75335-888a-4776-9f4b-12ce27b324d5)
+![LinkedIn](https://github.com/user-attachments/assets/176c93d5-c97a-4ca6-b22e-599492cf2b8d)
+![X](https://github.com/user-attachments/assets/eeaaeb18-2e9d-4aea-96f9-93f949ad693a)
+![Twitch](https://github.com/user-attachments/assets/e1ae3bfc-6be7-4b33-a875-c969f318bcef)
+![Spotify](https://github.com/user-attachments/assets/d1893343-e785-46d4-86c3-f872c28f1579)
+![TikTok](https://github.com/user-attachments/assets/4f1c15c1-7702-469a-bae3-3b177b93b7f7)
+![Threads](https://github.com/user-attachments/assets/bbfbfb12-a628-4029-8d1b-c94e5152829a)
+![Instagram](https://github.com/user-attachments/assets/3a4379af-bc76-40c6-8e52-2b247c393fea)
+![Facebook](https://github.com/user-attachments/assets/13db7d5a-7b94-48d5-9d5d-9de990ceffa2)
+
 
 YouTube: [@AdmUIPersonalMinhDuy](https://www.youtube.com/@AdmUIPersonalMinhDuy)
 
