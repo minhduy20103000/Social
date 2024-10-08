@@ -1,5 +1,5 @@
 ![](https://github.com/user-attachments/assets/eedcc2ba-6231-43ce-be9c-6e60e18b2ef9)
-<h1 align="center-top"><picture><img src="https://github.com/user-attachments/assets/de77149b-d27f-466b-a03d-d3ccc3eca82e" width="100" height="100"/></picture>
+<h1 align="center-buttom"><picture><img src="https://github.com/user-attachments/assets/de77149b-d27f-466b-a03d-d3ccc3eca82e" width="100" height="100"/></picture>
 Minh Duy</h1>
 
 <h1 align="center">
