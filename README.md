@@ -15,3 +15,34 @@
   <picture><a href="https://www.reddit.com/user/minhduy20103000/"><img src="https://github.com/user-attachments/assets/eb3595fd-e7ea-4295-b8c8-ab8c37eb6615" width="200" height="50"/></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/339f0bc7-054d-4f4c-b4c9-86fa2dc49070" width="200" height="50"/></picture>
 </h1>
+
+/**
+ * Button's center align (absolute positioning)
+ */
+ body {
+	height: 100%;
+	width: 100%;
+}
+ 
+.content {
+	width: 100%;
+	height: 100%;
+	/*width: 400px;*/
+	/*height: 400px;*/
+	background-color: red;
+    display: table;
+    position: absolute;
+}
+.button-wrapper {
+	background-color: navy;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.button {
+	display: block;
+	vertical-align: middle;
+	margin: auto;
+	width: 30px;
+	height: 100px;
+}
