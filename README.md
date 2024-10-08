@@ -5,7 +5,7 @@
 <h1 align="center">Minh Duy</h1>
 
 <h1 align="center">
-  <picture><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"></a></picture>
+  <picture><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/13db7d5a-7b94-48d5-9d5d-9de990ceffa2" width="200" height="50"/></picture>
   <picture><a href="https://www.instagram.com/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/3a4379af-bc76-40c6-8e52-2b247c393fea" width="200" height="50"/></a></picture>
   <picture><a href="https://www.threads.net/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/bbfbfb12-a628-4029-8d1b-c94e5152829a" width="200" height="50"/></a></picture>
