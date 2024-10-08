@@ -12,6 +12,8 @@ Threads: [minhduy20103000_](https://www.threads.net/minhduy20103000_/)
 
 TikTok: [@minhduy20103000](https://www.tiktok.com/@minhduy20103000)
 
+Spotify: [Minh Duy](https://open.spotify.com/user/31a6jrwkpvpdatvh5csrdui3trsi)
+
 Twitch: [minhduy20103000](https://www.twitch.tv/minhduy20103000)
 
 X: [minhduy2010_](https://x.com/minhduy2010_)
