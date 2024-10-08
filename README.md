@@ -1,3 +1,4 @@
+![](https://github.com/user-attachments/assets/a34af58c-db3d-44ab-9f8e-a7fdf8a79629)
 <h1 align="center"><img src="https://github.com/user-attachments/assets/c6a963f7-3fa5-44ba-b049-05346aa8f6bd" width="100" height="100" /></h1>
 
 <h1 align="center">Minh Duy</h1>
