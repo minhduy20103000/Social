@@ -4,16 +4,16 @@
 <h3 align="center">Email: minhduy20103000@gmail.com</h3>
 
 <h1 align="center">
-  <picture><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/001b12cf-06eb-47c4-b794-f6ef5c35cc41" width="200" height="50"/></a></picture>
-  <picture><img src="https://github.com/user-attachments/assets/13db7d5a-7b94-48d5-9d5d-9de990ceffa2" width="200" height="50"/></picture>
-  <picture><a href="https://www.instagram.com/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/3a4379af-bc76-40c6-8e52-2b247c393fea" width="200" height="50"/></a></picture>
-  <picture><a href="https://www.tiktok.com/@minhduy20103000"><img src="https://github.com/user-attachments/assets/4f1c15c1-7702-469a-bae3-3b177b93b7f7" width="200" height="50"/></a></picture>
-  <picture><a href="https://open.spotify.com/user/31a6jrwkpvpdatvh5csrdui3trsi"><img src="https://github.com/user-attachments/assets/d1893343-e785-46d4-86c3-f872c28f1579" width="200" height="50"/></a></picture>
-  <picture><a href="https://www.twitch.tv/minhduy20103000"><img src="https://github.com/user-attachments/assets/e1ae3bfc-6be7-4b33-a875-c969f318bcef" width="200" height="50"/></a></picture>
-  <picture><a href="https://x.com/minhduy2010_"><img src="https://github.com/user-attachments/assets/eeaaeb18-2e9d-4aea-96f9-93f949ad693a" width="200" height="50"/></a></picture>
-  <picture><img src="https://github.com/user-attachments/assets/176c93d5-c97a-4ca6-b22e-599492cf2b8d" width="200" height="50"/></picture>
-  <picture><a href="https://www.pinterest.com/minhduy20103000/"><img src="https://github.com/user-attachments/assets/a7f75335-888a-4776-9f4b-12ce27b324d5" width="200" height="50"/></a></picture>
-  <picture><a href="https://www.reddit.com/user/minhduy20103000/"><img src="https://github.com/user-attachments/assets/eb3595fd-e7ea-4295-b8c8-ab8c37eb6615" width="200" height="50"/></a></picture>
-  <picture><img src="https://github.com/user-attachments/assets/bbfbfb12-a628-4029-8d1b-c94e5152829a" width="200" height="50"/></picture>
-  <picture><img src="https://github.com/user-attachments/assets/339f0bc7-054d-4f4c-b4c9-86fa2dc49070" width="200" height="50"/></picture>
+  <picture><a href="https://www.youtube.com/@AdmUIPersonalMinhDuy"><img src="https://github.com/user-attachments/assets/2c422e41-8c71-45f4-a9d0-158195081de2" width="200" height="50"/></a></picture>
+  <picture><img src="https://github.com/user-attachments/assets/a7e49745-e857-4d5b-b1bb-b5918e5c147a" width="200" height="50"/></picture>
+  <picture><a href="https://www.instagram.com/minhduy20103000_/"><img src="https://github.com/user-attachments/assets/72056471-a502-4831-9660-ca227be4636a" width="200" height="50"/></a></picture>
+  <picture><a href="https://www.tiktok.com/@minhduy20103000"><img src="https://github.com/user-attachments/assets/64165889-3eac-4588-9f3a-1a48b4b22d98" width="200" height="50"/></a></picture>
+  <picture><a href="https://open.spotify.com/user/31a6jrwkpvpdatvh5csrdui3trsi"><img src="https://github.com/user-attachments/assets/60b97be3-dd57-4f69-90c1-d537a59df1d7" width="200" height="50"/></a></picture>
+  <picture><a href="https://www.twitch.tv/minhduy20103000"><img src="https://github.com/user-attachments/assets/1c269185-0b4f-44f0-9c85-4b47784f9cc8" width="200" height="50"/></a></picture>
+  <picture><a href="https://x.com/minhduy2010_"><img src="https://github.com/user-attachments/assets/e1933f7b-d023-4a1c-8c91-f946478b5c9b" width="200" height="50"/></a></picture>
+  <picture><img src="https://github.com/user-attachments/assets/5f3cbd54-7528-413f-9774-8d038cd1a64a" width="200" height="50"/></picture>
+  <picture><a href="https://www.pinterest.com/minhduy20103000/"><img src="https://github.com/user-attachments/assets/6d1769a8-05b2-43c4-af0b-2dce454e3a89" width="200" height="50"/></a></picture>
+  <picture><a href="https://www.reddit.com/user/minhduy20103000/"><img src="https://github.com/user-attachments/assets/826b72d9-b512-418f-8138-45bd75e0f681" width="200" height="50"/></a></picture>
+  <picture><img src="https://github.com/user-attachments/assets/fdbdb80c-722d-4124-9f4d-3ac6c1a446e1" width="200" height="50"/></picture>
+  <picture><img src="https://github.com/user-attachments/assets/1ea7a568-273e-4c46-aec1-7ef3f8ea81bc" width="200" height="50"/></picture>
 </h1>
