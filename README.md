@@ -9,7 +9,7 @@
   <picture><a href="https://www.tiktok.com/@minhduy20103000"><img src="https://github.com/user-attachments/assets/64165889-3eac-4588-9f3a-1a48b4b22d98" width="200" height="50"/></a></picture>
   <picture><a href="https://open.spotify.com/user/31a6jrwkpvpdatvh5csrdui3trsi"><img src="https://github.com/user-attachments/assets/60b97be3-dd57-4f69-90c1-d537a59df1d7" width="200" height="50"/></a></picture>
   <picture><a href="https://www.twitch.tv/minhduy20103000"><img src="https://github.com/user-attachments/assets/de1b3abf-bd29-459d-bfab-159da4f55b27" width="200" height="50"/></a></picture>
-  <picture><a href="https://x.com/minhduy2010_"><img src="https://github.com/user-attachments/assets/e1933f7b-d023-4a1c-8c91-f946478b5c9b" width="200" height="50"/></a></picture>
+  <picture><a href="https://x.com/minhduy20103000"><img src="https://github.com/user-attachments/assets/e1933f7b-d023-4a1c-8c91-f946478b5c9b" width="200" height="50"/></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/5f3cbd54-7528-413f-9774-8d038cd1a64a" width="200" height="50"/></picture>
   <picture><a href="https://www.pinterest.com/minhduy20103000/"><img src="https://github.com/user-attachments/assets/6d1769a8-05b2-43c4-af0b-2dce454e3a89" width="200" height="50"/></a></picture>
   <picture><a href="https://www.reddit.com/user/minhduy20103000/"><img src="https://github.com/user-attachments/assets/826b72d9-b512-418f-8138-45bd75e0f681" width="200" height="50"/></a></picture>
